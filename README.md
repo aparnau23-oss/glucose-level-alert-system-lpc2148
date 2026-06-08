@@ -1,2 +1,13 @@
 # glucose-level-alert-system-lpc2148
-Arduino-based embedded healthcare project for real-time posture monitoring and alert generation. The system detects prolonged bad posture using sensor input and activates a buzzer, LED, and servo motor for corrective feedback. Built using Arduino Uno, Embedded C, LCD, and servo interfacing concepts.
+Glucose Level Alert System using LPC2148
+Embedded healthcare monitoring project using ARM7 LPC2148 microcontroller for glucose level indication and alert generation. The system uses ADC sensing, UART communication, LCD interfacing, and buzzer/LED alerts to monitor glucose conditions in real time..
+
+Components Used:
+LPC2148, LCD 16x2, ADC, UART, buzzer, LED.
+
+Features:
+- Real-time glucose indication
+- LCD display output
+- UART serial monitoring
+- High/low alert generation
+- Embedded C implementation
